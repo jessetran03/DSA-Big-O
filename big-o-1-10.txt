@@ -1,0 +1,49 @@
+1. What is the Big O for this?
+
+  1) O(1)
+  2) O(n)
+
+2. Even or odd
+
+  O(1)
+    input a number, get an output
+
+3. Are you here?
+
+  O(n^2)
+    Nested loop
+
+4. Doubler
+
+  O(n)
+    It is directly proportional to size (n) of input. It goes through each item of the array once.
+
+5. Naive search
+
+    O(n)
+      Goes through array until finds item in array
+
+6. Creating pairs   
+
+    O(n^2)
+
+7. Compute the sequence
+
+    Fibonacci sequence - nth number is sum of the previous two numbers
+    O(n^2)
+
+8. An efficient search
+
+    O(log(n))
+
+      The more you go through the search, the smaller the array gets
+
+9. Random element
+
+    O(1)
+      Input number and get output
+
+10. What Am I?
+
+    Checks to see if the number is prime
+    O(n)
