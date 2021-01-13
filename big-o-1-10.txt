@@ -30,7 +30,7 @@
 7. Compute the sequence
 
     Fibonacci sequence - nth number is sum of the previous two numbers
-    O(n^2)
+    O(n)
 
 8. An efficient search
 
@@ -46,4 +46,4 @@
 10. What Am I?
 
     Checks to see if the number is prime
-    O(n)
+    O(1)
